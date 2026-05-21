@@ -1,2 +1,4 @@
 # Portfolio-data-analyst--massylla
-Mon portfolio de projets en Data Analyse (Python, SQL, Power BI)
+## Welcome to my data analysis portfolio.  
+Here you will find my notebooks, dashboards, and case studies.
+
